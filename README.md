@@ -1,1 +1,1 @@
-# ruby_algo_third_day
+# ruby_algo_3
